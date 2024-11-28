@@ -10,7 +10,6 @@
 
 ## 주요 파일
 - `202044024_inflation.ipynb`: 데이터 분석 및 시각화 코드
-- `Inflation_Project_Presentation.pdf`: 프로젝트 발표 자료
 
 ## 사용한 도구
 - Python: Pandas, Matplotlib, Seaborn 등
